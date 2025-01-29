@@ -9,8 +9,8 @@
 ## Packages 
 > React-hot-toast: For pretty notifications
 > Lucide react: Icons
-> React Player
-> Axios
+> React Player: For video
+> Axios: HTTP
 > Zustand: Allows us to have global state
 
 ## Tailwind
@@ -20,3 +20,7 @@ npx tailwindcss init
 
 # React
 BrowserRouter
+<Link/>
+
+# Hooks
+useNavigate

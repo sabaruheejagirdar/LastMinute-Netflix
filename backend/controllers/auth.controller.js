@@ -126,8 +126,7 @@ export async function logout(req, res) {
 	}
 }
 
-/*
-
+// allows to check if user is authenicated 
 export async function authCheck(req, res) {
 	try {
 		console.log("req.user:", req.user);
@@ -137,4 +136,3 @@ export async function authCheck(req, res) {
 		res.status(500).json({ success: false, message: "Internal server error" });
 	}
 }
-*/

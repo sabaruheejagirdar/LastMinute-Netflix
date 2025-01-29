@@ -11,6 +11,8 @@
 	background-size: 1000px 100%;
 }
 
+
+
 @keyframes shimmer {
 	0% {
 		background-position: -1000px 0;
